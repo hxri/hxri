@@ -9,10 +9,10 @@
 
 <div class="row">
   <div class="column">
-    <p align="">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hxri&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true"     alt="hxri" /></p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=hxri&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true"     alt="hxri" />
   </div>
   <div class="column">
-    <p align="">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hxri&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true"     alt="hxri" /></p>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=hxri&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true"     alt="hxri" />
   </div>
 </div>
 
