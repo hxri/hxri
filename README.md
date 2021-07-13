@@ -12,7 +12,7 @@
     <p>I am an AI Researcher and Engineer working at Zellab Dynamics. I have been working on Deep Learning, Image Processing, Time Series analysis and Segmentation models in the past.</p>
   </div>
   <div class="column">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=hxri&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="hxri" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=hxri&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="hxri" />
   </div>
 </div>
 
