@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">&nbsp;
-I am an AI Researcher working on Deep Learing, Segmentation, Image Processing, Time Series Analysis etc.
+I am an AI Researcher working on Deep Learing, Segmentation, Image Processing, Time Series Analysis. You can contact me at h4ri.prasad@gmail.com
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hxri&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="hxri" /></p>
