@@ -12,7 +12,7 @@
     <p align="">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hxri&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true"     alt="hxri" /></p>
   </div>
   <div class="column">
-  
+    <p align="">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hxri&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true"     alt="hxri" /></p>
   </div>
 </div>
 
