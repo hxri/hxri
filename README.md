@@ -10,5 +10,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hxri&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="hxri" /></p>
 
 <p align="center">&nbsp;
-I am an AI Researcher working on areas like Deep Learing, Image Processing, Segmentation Models, Generative Models, Recommendation Systems and Time Series Analysis. You can contact me at <a href="mailto:h4ri.prasad@gmail.com">h4ri.prasad@gmail.com</a>
+I am an AI Researcher working on areas like Deep Learing, Image Processing, Segmentation Models, Generative Models, Reinforcement Learning, Recommendation Systems and Time Series Analysis. You can contact me at <a href="mailto:h4ri.prasad@gmail.com">h4ri.prasad@gmail.com</a>
 </p>
